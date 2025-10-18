@@ -1,2 +1,2 @@
-# Proiect-1
-Proiect Python
+# git_exercise
+Exercise for Info Economic
